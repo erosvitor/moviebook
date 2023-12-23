@@ -1,0 +1,13 @@
+# Eclipse/STS
+target/
+.project
+.classpath
+.settings/
+bin/
+
+# IntelliJ
+.idea
+*.ipr
+*.iml
+*.iws
+
